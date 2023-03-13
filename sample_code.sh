@@ -7,3 +7,4 @@ echo "This is an example of a script"
 echo "This is running in a build step and it shows changes"
 SUM=$((FIRSTNUMBER + SECONDNUMBER))
 echo "$SUM"
+https://github.com/raghu1104/devops-helloworld.git
